@@ -7,8 +7,8 @@ package info_test
 import (
 	"testing"
 
+	"github.com/elleqt/modem/info"
 	"github.com/stretchr/testify/assert"
-	"github.com/warthog618/modem/info"
 )
 
 func TestHasPrefix(t *testing.T) {

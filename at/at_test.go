@@ -19,10 +19,10 @@ import (
 	"testing"
 	"time"
 
+	"github.com/elleqt/modem/at"
+	"github.com/elleqt/modem/trace"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/warthog618/modem/at"
-	"github.com/warthog618/modem/trace"
 )
 
 const (

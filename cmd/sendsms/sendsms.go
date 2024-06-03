@@ -16,11 +16,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/warthog618/modem/at"
-	"github.com/warthog618/modem/gsm"
-	"github.com/warthog618/modem/serial"
-	"github.com/warthog618/modem/trace"
-	"github.com/warthog618/sms"
+	"github.com/elleqt/modem/at"
+	"github.com/elleqt/modem/gsm"
+	"github.com/elleqt/modem/serial"
+	"github.com/elleqt/modem/trace"
+	"github.com/elleqt/sms"
 )
 
 var version = "undefined"
